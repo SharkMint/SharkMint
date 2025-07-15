@@ -52,11 +52,7 @@
   </a>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-<hr width="36%" >
-
-
+<hr width="100%" >
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
