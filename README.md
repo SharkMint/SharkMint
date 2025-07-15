@@ -7,7 +7,7 @@
 🎓 Actualmente estoy estudiando la licenciatura en informatica en la Universidad Autonoma de Santo Domingo(UASD).\
 🌱 &nbsp;Estoy en camino de aprender más sobre ciberseguridad, seguridad en software y código seguro.\
 ✍️ En mi tiempo libre, me dedico a aprender ciberseguridad como pasatiempos o actividades secundarias como el ejercicio.\
-📄 &nbsp;Eche un vistazo a mi [Resumen]([https://www.adityavsingh.com/resume.html](https://maicoljaquezr.netlify.app/)) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+📄 &nbsp;Eche un vistazo a mi [Resumen]([https://maicoljaquezr.netlify.app/]) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 <hr width="100%" >
 
@@ -57,5 +57,4 @@
 <a href="https://www.linkedin.com/in/maicol-jaquez-ramirez-926917190/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh-rai-072732220" height="30" width="40" /></a>
 </p>
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anii693&label=Profile%20views&color=0e75b6&style=flat" alt="anii693" /> </p>
 
