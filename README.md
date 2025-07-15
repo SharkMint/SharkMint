@@ -8,40 +8,39 @@
 🌱 Actualmente aprendiendo **WEB Development Full-Stack**
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
 
-
 <br>
 <h3 align="left">Lenguajes de programación:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,php" />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,php,py" />
   </a>
 </p>
 
 <h3 align="left">Librerias de estilos:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=bootstrap,materialui" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui,tailwind" />
   </a>
 </p>
 
 <h3 align="left">Framework o Librerias:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,flutter,laravel,nodejs" />
+    <img src="https://skillicons.dev/icons?i=react,redux,flutter,laravel,nodejs" />
   </a>
 </p>
 
 <h3 align="left">Herramientas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,mysql,postman" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,mysql,postman,visualstudio,vscode" />
   </a>
 </p>
 
 <h3 align="left">Sistemas Operativos:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,mint" />
+    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint" />
   </a>
 </p>
 
