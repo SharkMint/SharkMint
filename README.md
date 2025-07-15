@@ -46,7 +46,7 @@
 <h3 align="left">Sistemas Operativos:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,ubuntu,mint" />
   </a>
 </p>
 
