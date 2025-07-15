@@ -10,8 +10,19 @@
 
 
 <br>
-<h3 align="left">Lenguajes de programación y Herramientas:</h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<h3 align="left">Lenguajes de programación:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker," />
+  </a>
+</p>
+
+<h3 align="left">Herramientas:</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker," />
+  </a>
+</p>
 
 
 <hr width="36%" >
