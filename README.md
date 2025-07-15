@@ -1,8 +1,5 @@
 <h1 align="center">Hola 👋, Mi nombre es Maicol Jaquez</h1>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -14,8 +11,7 @@
 ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://www.adityavsingh.com/resume.html) for more details about me. I'm open to feedback and suggestions!
 
-
-<hr width="50%" >
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 🌱 Actualmente aprendiendo **WEB Development Full-Stack**
 
