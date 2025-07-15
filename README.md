@@ -13,14 +13,35 @@
 <h3 align="left">Lenguajes de programación:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker," />
+    <img src="https://skillicons.dev/icons?i=cs,html,css,js,php" />
+  </a>
+</p>
+
+<h3 align="left">Librerias de estilos:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=bootstrap,materialui" />
+  </a>
+</p>
+
+<h3 align="left">Framework o Librerias:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,flutter,laravel,nodejs" />
   </a>
 </p>
 
 <h3 align="left">Herramientas:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker," />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,firebase,mysql,postman" />
+  </a>
+</p>
+
+<h3 align="left">Sistemas Operativos:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,mint" />
   </a>
 </p>
 
