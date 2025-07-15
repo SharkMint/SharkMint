@@ -7,7 +7,7 @@
 🎓 Actualmente estoy estudiando la licenciatura en informatica en la Universidad Autonoma de Santo Domingo(UASD).\
 🌱 &nbsp;Estoy en camino de aprender más sobre ciberseguridad, seguridad en software y código seguro.\
 ✍️ En mi tiempo libre, me dedico a aprender ciberseguridad como pasatiempos o actividades secundarias como el ejercicio.\
-📄 &nbsp;Eche un vistazo a mi [Resumen]([https://maicoljaquezr.netlify.app/]) para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
+📄 &nbsp;Eche un vistazo a mi portafolios https://maicoljaquezr.netlify.app/ para obtener más detalles sobre mí. ¡Estoy abierto a comentarios y sugerencias!
 
 <hr width="100%" >
 
