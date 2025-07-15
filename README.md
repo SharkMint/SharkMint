@@ -31,8 +31,6 @@
   </a>
 </p>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
 <h3 align="left">Framework o Librerias:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
@@ -53,6 +51,8 @@
     <img src="https://skillicons.dev/icons?i=linux,ubuntu,mint" />
   </a>
 </p>
+
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 <hr width="36%" >
 
