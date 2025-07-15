@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, Mi nombre es Maicol Jaquez Ramirez</h1>
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;Sobre Mi
 
 💡 Me gusta explorar nuevas tecnologías y desarrollar soluciones de software y codigo seguro o seguridad en software.\
 🎓 Actualmente estoy estudiando la licenciatura en informatica en la Universidad Autonoma de Santo Domingo(UASD).\
