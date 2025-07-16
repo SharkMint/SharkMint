@@ -18,7 +18,7 @@
 <h3 align="left">Lenguajes de programación:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,html,css,js,ts,php" />
+    <img src="https://skillicons.dev/icons?i=dart,cs,html,css,js,ts,php" />
   </a>
 </p>
 
